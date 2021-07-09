@@ -1,0 +1,5 @@
+com\learning\search\repository\ProductRepository.class
+com\learning\search\service\ProductService.class
+com\learning\search\model\Product.class
+com\learning\search\SearchserviceApplication.class
+com\learning\search\controller\ProductController.class
