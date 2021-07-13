@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.learning.search.searchservice.SearchserviceApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 9.103 s <<< FAILURE! - in com.learning.search.searchservice.SearchserviceApplicationTests
-contextLoads  Time elapsed: 0.002 s  <<< ERROR!
-java.lang.IllegalStateException: Failed to load ApplicationContext
-Caused by: org.springframework.cloud.commons.ConfigDataMissingEnvironmentPostProcessor$ImportException: No spring.config.import set
-
